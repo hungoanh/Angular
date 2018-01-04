@@ -3,5 +3,4 @@ Verify that you are running at least node 6.9.x and npm 3.x.x by running node -v
 
 npm install -g @angular/cli
 
-cd my-app
-ng serve --open
+cd my-app && ng serve --open
